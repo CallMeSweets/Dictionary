@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1547746377 source:d:\codeblocksprojects\tree\dictionary\main.cpp
-	<iostream>
-	"Dictionary.h"
-
-1547746311 d:\codeblocksprojects\tree\dictionary\include\dictionary.h
-	"iostream"
-
